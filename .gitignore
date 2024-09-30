@@ -1,1 +1,5 @@
 
+Makefile linguist-vendored
+*.mk linguist-vendored
+Makefile linguist-generated
+*.mk linguist-generated
